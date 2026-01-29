@@ -1,287 +1,453 @@
 [
   {
-    "venue": "AAAI",
-    "area": "AI",
-    "abstract_deadline": "08/30/2019 23:59 UTC-10",
-    "deadline": "09/05/2019 23:59 UTC-10",
-    "link": "https://aaai.org/Conferences/AAAI-20/",
-    "location": "New York, USA"
+    "venue": "TMLR",
+    "venue_long": "Transactions on Machine Learning Research",
+    "type": "journal",
+    "ranking": "Recent top tier AI journal",
+    "area": "General AI/ML/RL"
   },
   {
-    "venue": "ACML",
-    "venue_long": "Asian Conference on Machine Learning",
-    "area": "Machine Learning",
-    "deadline": "8/01/2018 23:59 UTC-8",
-    "conference_dates": {
-      "start": "11/14/2018",
-      "end": "11/16/2018"
-    },
-    "link": "http://www.acml-conf.org/2018/"
+    "venue": "JMLR",
+    "venue_long": "Journal of Machine Learning Research",
+    "type": "journal",
+    "ranking": "Top tier AI journal",
+    "area": "General AI/ML/RL"
   },
   {
-    "venue": "AISTATS",
-    "area": "Machine Learning",
-    "abstract_deadline": "2024/10/03",
-    "deadline": "2024/10/10",
-    "conference_dates": {
-      "start": "2025/05/03",
-      "end": "2025/05/05"
-    },
-    "link": "http://www.aistats.org",
-    "location": "Valencia, Spain"
+    "venue": "JAAMAS",
+    "venue_long": "Journal of Autonomous Agents and Multi-Agent Systems",
+    "type": "journal",
+    "area": "RL and Multi agent RL"
   },
   {
-    "venue": "CIKM",
-    "venue_long": "ACM International Conference on Information and Knowledge Management",
-    "area": "Data Mining",
-    "link": "http://www.cikmconference.org/",
-    "location": "Gold coast, Queensland, Australia",
-    "abstract_deadline": "05/15/2019 23:59 UTC-12",
-    "deadline": "05/22/2019 23:59 UTC-12",
-    "notification": "08/06/2019",
-    "camera_ready": "08/27/2019",
+    "venue": "IEEE TNNLS",
+    "venue_long": "IEEE Transactions on Neural Networks and Learning Systems",
+    "type": "journal",
+    "area": "General AI/ML"
+  },
+  {
+    "venue": "TACL",
+    "venue_long": "Transactions of the Association for Computational Linguistics",
+    "type": "journal",
+    "area": "NLP and language models"
+  },
+  {
+    "venue": "IEEE TPAMI",
+    "venue_long": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "type": "journal"
+  },
+  {
+    "venue": "Nature Machine Intelligence",
+    "type": "journal"
+  },
+  {
+    "venue": "ICPR-26",
+    "venue_long": "International Conference on Pattern Recognition",
+    "type": "conference",
+    "ranking": "B",
+    "area": "General AI/ML",
+    "location": "Lyon",
+    "deadline": "12/20/2025 23:59",
     "conference_dates": {
-      "start": "11/01/2021",
-      "end": "11/05/2021"
+      "start": "2026/08/01",
+      "end": "2026/08/05"
     }
   },
   {
-    "venue": "CVPR",
-    "venue_long": "IEEE Conference on Computer Vision and Pattern Recognition",
-    "area": "Computer Vision",
-    "deadline": "11/16/2018 23:59 PST",
+    "venue": "ACL-26",
+    "venue_long": "Annual Meeting of the Association for Computational Linguistics",
+    "type": "conference",
+    "ranking": "A*",
+    "area": "NLP",
+    "location": "San Diego, California",
+    "note": "Uses ACL Rolling Review (ARR) system - multiple submission cycles available",
     "conference_dates": {
-      "start": "06/16/2019",
-      "end": "06/21/2019"
-    },
-    "link": "http://cvpr2019.thecvf.com/",
-    "location": "Long Beach, CA, USA"
-  },
-  {
-    "venue": "DSAA",
-    "venue_long": "International Conference on Data Science and Advanced Analytics",
-    "area": "Statistics, CS, Data Analytics",
-    "link": "https://dsaa.co/",
-    "location": "Porto, Portugal",
-    "deadline": "05/23/2021",
-    "notification": "07/25/2021",
-    "camera_ready": "08/08/2021",
-    "conference_dates": {
-      "start": "10/06/2021",
-      "end": "10/09/2021"
+      "start": "2026/07/02",
+      "end": "2026/07/07"
     }
   },
   {
-    "venue": "ECAI",
-    "venue_long": "European Conference on Artificial Intelligence",
-    "area": "Artificial Intelligence",
-    "link": "http://ecai2020.eu/",
-    "location": "Bologna, Italy",
-    "abstract_deadline": "2025/04/29",
-    "deadline": "2025/05/06",
+    "venue": "IJCAI-26",
+    "venue_long": "International Joint Conference on Artificial Intelligence",
+    "type": "conference",
+    "ranking": "A*",
+    "area": "General AI/ML",
+    "location": "Bremen, Germany",
+    "abstract_deadline": "01/12/2026 23:59",
+    "deadline": "01/19/2026 23:59",
     "conference_dates": {
-      "start": "2025/10/25",
-      "end": "2025/10/30"
+      "start": "2026/08/15",
+      "end": "2026/08/21"
     }
   },
   {
-    "venue": "ECML-PKDD (Research Track)",
-    "area": "Machine Learning",
+    "venue": "ICML-26",
+    "venue_long": "International Conference on Machine Learning",
+    "type": "conference",
+    "ranking": "A*",
+    "area": "General AI/ML",
+    "location": "Seoul",
+    "abstract_deadline": "01/23/2026 11:59",
+    "deadline": "01/28/2026 23:59",
     "conference_dates": {
-      "start": "2025/09/15",
-      "end": "2025/09/19"
-    },
-    "abstract_deadline": "2025/03/07",
-    "deadline": "2025/03/14",
-    "link": "http://www.ecmlpkdd.org/",
-    "location": "Porto, Portugal (Spain)"
+      "start": "2026/07/12",
+      "end": "2026/07/18"
+    }
   },
   {
-    "venue": "ESANN",
-    "venue_long": "European Symposium on Artificial Neural Networks",
-    "area": "Machine Learning",
-    "deadline": "11/19/2018 23:59",
+    "venue": "IJCNN-26",
+    "venue_long": "International Joint Conference on Neural Networks",
+    "type": "conference",
+    "ranking": "B",
+    "area": "General AI/ML",
+    "location": "Netherlands",
+    "deadline": "01/31/2026 23:59",
     "conference_dates": {
-      "start": "04/24/2019",
-      "end": "04/26/2019"
-    },
-    "link": "https://www.elen.ucl.ac.be/esann/",
-    "location": "Bruges, Belgium"
+      "start": "2026/07/22",
+      "end": "2026/07/26"
+    }
   },
   {
-    "venue": "ICANN",
-    "venue_long": "International Conference on Artificial Neural Networks",
-    "area": "Machine Learning and Brain inspierd computing",
-    "deadline": "03/15/2024 23:59 UTC-7",
+    "venue": "UAI-26",
+    "venue_long": "Conference on Uncertainty in Artificial Intelligence",
+    "type": "conference",
+    "ranking": "A",
+    "area": "Uncertainty in AI",
+    "location": "Amsterdam, Netherlands",
+    "deadline": "02/25/2026 23:59",
     "conference_dates": {
-      "start": "09/17/2024",
-      "end": "09/20/2024"
-    },
-    "notification": "06/10/2024",
-    "camera_ready": "06/30/2024",
-    "link": "https://e-nns.org/",
-    "location": "Lugano-Viganello, Switzerland",
-    "format": "12 pages, Springer-Verlag Lecture Notes in Computer Science (LNCS), inc. references"
+      "start": "2026/08/18",
+      "end": "2026/08/20"
+    }
   },
   {
-    "venue": "ICDM",
-    "venue_long": "IEEE International Conference on Data Mining",
-    "area": "Data Mining",
-    "deadline": "2025/06/06",
+    "venue": "RLC-26",
+    "venue_long": "Reinforcement Learning Conference",
+    "type": "conference",
+    "ranking": "Top - New",
+    "area": "RL",
+    "location": "Montreal, Quebec",
+    "abstract_deadline": "03/01/2026 23:59",
+    "deadline": "03/05/2026 23:59",
     "conference_dates": {
-      "start": "2025/11/12",
-      "end": "2025/11/15"
-    },
-    "link": "http://icdm.zhonghuapu.com/",
-    "location": "Washington DC, USA",
-    "format": "10 pages, IEEE 2-column format, inc. bibliography and appendices"
+      "start": "2026/08/16",
+      "end": "2026/08/19"
+    }
+  },
+  {
+    "venue": "ECCV-26",
+    "venue_long": "European Conference on Computer Vision",
+    "type": "conference",
+    "ranking": "A*",
+    "area": "Vision",
+    "location": "Malmö, Sweden",
+    "abstract_deadline": "02/26/2026 23:59",
+    "deadline": "03/05/2026 23:59",
+    "conference_dates": {
+      "start": "2026/09/08",
+      "end": "2026/09/13"
+    }
+  },
+  {
+    "venue": "ECML-PKDD-26",
+    "venue_long": "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases",
+    "type": "conference",
+    "ranking": "A",
+    "area": "General AI/ML",
+    "location": "Naples, Italy",
+    "abstract_deadline": "03/07/2026 23:59",
+    "deadline": "03/14/2026 23:59",
+    "conference_dates": {
+      "start": "2026/09/14",
+      "end": "2026/09/18"
+    }
+  },
+  {
+    "venue": "IEEE-CDC",
+    "venue_long": "IEEE Conference on Decision and Control",
+    "type": "conference",
+    "ranking": "A",
+    "area": "RL",
+    "location": "Hawaii",
+    "deadline": "03/17/2026 23:59",
+    "conference_dates": {
+      "start": "2026/12/13",
+      "end": "2026/12/18"
+    }
+  },
+  {
+    "venue": "IEEE-SMC-26",
+    "venue_long": "IEEE International Conference on Systems, Man, and Cybernetics",
+    "type": "conference",
+    "ranking": "B",
+    "area": "Systems Man & Cybernetics",
+    "location": "Bellevue, US",
+    "deadline": "03/22/2026 23:59",
+    "conference_dates": {
+      "start": "2026/10/11",
+      "end": "2026/10/14"
+    }
+  },
+  {
+    "venue": "CoLM-26",
+    "venue_long": "Conference on Language Modeling",
+    "type": "conference",
+    "ranking": "Top - New",
+    "area": "Language Models",
+    "location": "San Francisco",
+    "abstract_deadline": "03/26/2026 23:59",
+    "deadline": "03/31/2026 23:59",
+    "conference_dates": {
+      "start": "2026/10/06",
+      "end": "2026/10/09"
+    }
+  },
+  {
+    "venue": "CoLLA-26",
+    "venue_long": "Conference on Lifelong Learning Agents",
+    "type": "conference",
+    "ranking": "Top - New",
+    "area": "RL",
+    "location": "Bucharest, Romania",
+    "abstract_deadline": "04/10/2026 23:59",
+    "deadline": "04/17/2026 23:59",
+    "conference_dates": {
+      "start": "2026/08/17",
+      "end": "2026/08/20"
+    }
+  },
+  {
+    "venue": "CoRL-25",
+    "venue_long": "Conference on Robot Learning",
+    "type": "conference",
+    "area": "Robotics",
+    "location": "Seoul, Korea",
+    "deadline": "04/28/2025 23:59",
+    "conference_dates": {
+      "start": "2025/09/27",
+      "end": "2025/09/30"
+    }
+  },
+  {
+    "venue": "IJCAI-ECAI-26",
+    "venue_long": "International Joint Conference on Artificial Intelligence / European Conference on Artificial Intelligence",
+    "type": "conference",
+    "ranking": "A*",
+    "area": "General AI/ML",
+    "location": "Bremen, Germany",
+    "abstract_deadline": "01/12/2026 23:59",
+    "deadline": "01/19/2026 23:59",
+    "note": "Joint conference - same as IJCAI-26",
+    "conference_dates": {
+      "start": "2026/08/15",
+      "end": "2026/08/21"
+    }
+  },
+  {
+    "venue": "AutoML-26",
+    "venue_long": "International Conference on Automated Machine Learning",
+    "type": "conference",
+    "ranking": "Top - New",
+    "area": "General AI/ML",
+    "location": "Slovenia",
+    "deadline": "04/30/2026 23:59",
+    "conference_dates": {
+      "start": "2026/09/15",
+      "end": "2026/09/18"
+    }
+  },
+  {
+    "venue": "NeurIPS",
+    "venue_long": "Conference on Neural Information Processing Systems",
+    "type": "conference",
+    "area": "General AI/ML",
+    "location": "San Diego",
+    "deadline": "05/15/2026 23:59",
+    "approx": 1,
+    "conference_dates": {
+      "start": "2026/12/06",
+      "end": "2026/12/12"
+    }
+  },
+  {
+    "venue": "EWRL",
+    "venue_long": "European Workshop on Reinforcement Learning",
+    "type": "conference",
+    "deadline": "06/15/2026 23:59",
+    "approx": 1,
+    "conference_dates": {
+      "start": "2026/09/20",
+      "end": "2026/09/23"
+    }
+  },
+  {
+    "venue": "RLDM",
+    "venue_long": "Multi-disciplinary Conference on Reinforcement Learning and Decision Making",
+    "type": "conference",
+    "area": "RL",
+    "location": "Dublin, Ireland",
+    "abstract_deadline": "06/11/2026 23:59",
+    "deadline": "06/11/2026 23:59",
+    "approx" : 1,
+    "conference_dates": {
+      "start": "2026/09/02",
+      "end": "2026/09/05"
+    }
+  },
+  {
+    "venue": "ICRA",
+    "venue_long": "IEEE International Conference on Robotics and Automation",
+    "type": "conference",
+    "area": "Robotics",
+    "deadline": "07/15/2026 23:59",
+    "approx": 1,
+    "conference_dates": {
+      "start": "2027/05/17",
+      "end": "2027/05/21"
+    }
+  },
+  {
+    "venue": "IEEE S&P-26",
+    "venue_long": "IEEE Symposium on Security and Privacy",
+    "type": "conference",
+    "area": "Security",
+    "deadline": "07/15/2026 23:59",
+    "approx": 1,
+    "conference_dates": {
+      "start": "2027/05/17",
+      "end": "2027/05/20"
+    }
+  },
+  {
+    "venue": "AAAI-26",
+    "venue_long": "AAAI Conference on Artificial Intelligence",
+    "type": "conference",
+    "ranking": "A*",
+    "area": "General AI/ML",
+    "location": "Singapore EXPO",
+    "abstract_deadline": "07/25/2025 23:59",
+    "deadline": "08/01/2025 23:59",
+    "conference_dates": {
+      "start": "2026/01/20",
+      "end": "2026/01/27"
+    }
+  },
+  {
+    "venue": "LoG",
+    "venue_long": "Learning on Graphs Conference",
+    "type": "conference",
+    "area": "Graphs",
+    "deadline": "09/15/2026 23:59",
+    "approx": 1,
+    "conference_dates": {
+      "start": "2026/11/30",
+      "end": "2026/12/03"
+    }
+  },
+  {
+    "venue": "IEEE Security and Trustworthy ML",
+    "type": "conference",
+    "area": "ML Security",
+    "deadline": "09/15/2026 23:59",
+    "approx": 1,
+    "conference_dates": {
+      "start": "2027/02/15",
+      "end": "2027/02/17"
+    }
+  },
+  {
+    "venue": "Black Hat-26",
+    "venue_long": "Black Hat Security Conference",
+    "type": "conference",
+    "area": "ML Security",
+    "deadline": "09/15/2026 23:59",
+    "approx": 1,
+    "conference_dates": {
+      "start": "2027/08/07",
+      "end": "2027/08/12"
+    }
   },
   {
     "venue": "ICLR",
     "venue_long": "International Conference on Learning Representations",
-    "area": "Deep Learning",
-    "abstract_deadline": "2024/09/27 23:59 UTC-12",
-    "deadline": "2024/10/01 23:59 UTC-12",
-    "link": "http://www.iclr.cc/",
+    "type": "conference",
+    "area": "General AI/ML",
+    "location": "Brazil",
+    "deadline": "10/01/2026 23:59",
+    "approx": 1,
     "conference_dates": {
-      "start": "2025/04/24",
-      "end": "2025/04/28"
-    },
-    "location": "Vienna, Austria"
-  },
-  {
-    "venue": "ICML",
-    "area": "Machine Learning",
-    "abstract_deadline": "2025/01/23",
-    "deadline": "2025/01/30",
-    "conference_dates": {
-      "start": "2025/07/13",
-      "end": "2025/07/19"
-    },
-    "link": "http://icml.cc",
-    "location": "Vancouver, Canada"
-  },
-  {
-    "venue": "IDA",
-    "venue_long": "Symposium on Intelligent Data Analysis",
-    "area": "Data Mining",
-    "link": "https://ida2020.org/",
-    "location": "Konstanz, Germany",
-    "abstract_deadline": "2024/11/22 23:59 UTC-12",
-    "deadline": "2024/11/29 23:59 UTC-12",
-    "conference_dates": {
-      "start": "2025/05/07",
-      "end": "2025/05/09"
+      "start": "2027/04/24",
+      "end": "2027/04/28"
     }
   },
   {
-    "venue": "IJCAI",
-    "area": "AI",
-    "abstract_deadline": "2025/01/16 23:59 UTC-12",
-    "deadline": "2025/01/23 23:59 UTC-12",
+    "venue": "MLSys Conference",
+    "venue_long": "Conference on Machine Learning and Systems",
+    "type": "conference",
+    "deadline": "10/15/2026 23:59",
+    "approx": 1,
     "conference_dates": {
-      "start": "2025/08/16",
-      "end": "2025/08/22"
-    },
-    "link": "https://www.ijcai.org/",
-    "location": "Montreal, Canada"
-  },
-  {
-    "venue": "KDD",
-    "area": "Data Mining",
-    "deadline": "2/8/2021 10:59 GMT",
-    "conference_dates": {
-      "start": "08/14/2021",
-      "end": "08/18/2021"
-    },
-    "notification": "5/17/2021 10:59 GMT",
-    "camera_ready": "6/17/2021 10:59 GMT",
-    "link": "http://www.kdd.org",
-    "location": "Singapore"
-  },
-  {
-    "venue": "MLHC",
-    "venue_long": "Machine Learning for Healthcare",
-    "link": "https://www.mlforhc.org/",
-    "location": "Virtual and Hybrid",
-    "deadline": "4/9/2024 17:00 EDT",
-    "conference_dates": {
-      "start": "08/16/2024",
-      "end": "08/17/2024"
+      "start": "2027/05/25",
+      "end": "2027/05/28"
     }
   },
   {
-    "venue": "MLSP",
-    "venue_long": "International Workshop on Machine Learning for Signal Processing",
-    "deadline": "04/30/2024 23:59:59 PST",
+    "venue": "AISTATS",
+    "venue_long": "International Conference on Artificial Intelligence and Statistics",
+    "type": "conference",
+    "area": "General AI/ML",
+    "deadline": "10/15/2026 23:59",
+    "approx": 1,
     "conference_dates": {
-      "start": "09/22/2024",
-      "end": "09/25/2024"
-    },
-    "link": "https://2024.ieeemlsp.org/",
-    "location": "London, UK"
-  },
-  {
-    "venue": "NeurIPS",
-    "area": "Machine Learning",
-    "abstract_deadline": "05/15/2024 13:00 PDT",
-    "deadline": "05/22/2024 13:00 PDT",
-    "conference_dates": {
-      "start": "12/9/2024",
-      "end": "12/15/2024"
-    },
-    "notification": "09/25/2024",
-    "link": "https://nips.cc/",
-    "location": "Vancouver, Canada"
-  },
-  {
-    "venue": "SDM",
-    "venue_long": "SIAM International Conference on Data Mining",
-    "area": "Data Mining",
-    "abstract_deadline": "10/05/2018 23:59 UTC-8",
-    "deadline": "10/12/2018 23:59 UTC-8",
-    "conference_dates": {
-      "start": "05/02/2019",
-      "end": "05/04/2019"
-    },
-    "link": "https://www.siam.org/Conferences/CM/Main/sdm19",
-    "location": "Calgary, Alberta, Canada"
-  },
-  {
-    "venue": "SPARS",
-    "venue_long": "Signal Processing with Adaptive Sparse Structured Representations",
-    "area": "Signal Processing; Sparsity",
-    "deadline": "04/01/2018",
-    "conference_dates": {
-      "start": "07/01/2019",
-      "end": "07/04/2019"
-    },
-    "link": "http://www.spars-workshop.org/en/index.html",
-    "location": "Toulouse, France"
-  },
-  {
-    "venue": "UAI",
-    "area": "Machine Learning",
-    "deadline": "2025/02/10 23:59 UTC-12",
-    "link": "http://auai.org/",
-    "location": "Rio de Janeiro, Brazil",
-    "conference_dates": {
-      "start": "2025/07/21",
-      "end": "2025/07/25"
+      "start": "2027/04/13",
+      "end": "2027/04/15"
     }
   },
   {
-    "venue": "WSDM",
-    "venue_long": "ACM International Conference on Web Search and Data Mining",
-    "area": "Data Mining",
-    "abstract_deadline": "08/08/2018 23:59 UTC-8",
-    "deadline": "08/15/2018 23:59 UTC-8",
+    "venue": "CLeaR",
+    "venue_long": "Conference on Causal Learning and Reasoning",
+    "type": "conference",
+    "area": "Causal Learning",
+    "deadline": "11/15/2026 23:59",
+    "approx": 1,
     "conference_dates": {
-      "start": "02/11/2019",
-      "end": "02/15/2019"
-    },
-    "notification": "10/24/2019",
-    "link": "http://www.wsdm-conference.org/2019/",
-    "location": "Melbourne, Australia"
+      "start": "2027/04/26",
+      "end": "2027/04/29"
+    }
+  },
+
+  {
+    "venue": "ICAPS",
+    "venue_long": "International Conference on Automated Planning and Scheduling",
+    "type": "conference",
+    "deadline": "11/20/2026 23:59",
+    "approx": 1,
+    "conference_dates": {
+      "start": "2027/06/21",
+      "end": "2027/06/26"
+    }
+  },
+  {
+    "venue": "L4DC",
+    "venue_long": "Learning for Dynamics and Control Conference",
+    "type": "conference",
+    "area": "RL & Control",
+    "deadline": "01/30/2027 23:59",
+    "approx": 1,
+    "conference_dates": {
+      "start": "2027/06/28",
+      "end": "2027/07/01"
+    }
+  },
+  {
+    "venue": "CoLT",
+    "venue_long": "Conference on Learning Theory",
+    "type": "conference",
+    "deadline": "02/01/2027 23:59",
+    "approx": 1,
+    "conference_dates": {
+      "start": "2027/07/06",
+      "end": "2027/07/09"
+    }
   }
 ]
